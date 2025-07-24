@@ -15,6 +15,11 @@ conta bancária, feito para treinar POO.
 - Consultar saldo cheque especial
 - Consultar se esta usando o cheque especial
 
+# Instruções de uso
+1 - Entre no bash e rode o seguinte código `git clone URL_DO_REPO` após isso digite `cd bank-account` e verifique se todos os arquivos estão lá.
+2 - Depois entre em uma IDE de sua escolha, recomendo o IntelliJ, após isso abra a pasta `bank-account` e vá no arquivo `main.java` e aperte `CTRL+F5` e veja o menu interativo aparecer.
+
+
 ---
 <p align="center">
   <a href="https://github.com/diogoosz" target="_blank">
